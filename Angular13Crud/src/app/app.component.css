@@ -1,0 +1,17 @@
+.img-logo {
+  /* position: absolute; */
+  position: relative;
+  width: 150px;
+  border-radius: 300px;
+}
+.nav-item a{
+  display: block;
+  text-align: right;
+  margin: 0 20px;
+  color: rgb(201, 78, 78);
+  font-weight: bold;
+  font-size: 20px;
+}
+.navbar {
+  background-color: lightseagreen;
+}
